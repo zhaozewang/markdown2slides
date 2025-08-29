@@ -1,6 +1,6 @@
-# Slides Development Pipeline
+# Markdown2Slides
 
-This repository is a simple slide development pipeline using Markdown. You can code the slide with markdown and the pipeline will automatically compile the slides to HTML (with Marp). It also includes a live server to preview the slides in the browser to see the changes in real time. This project is generated with [Claude Code](https://www.anthropic.com/news/claude-code).
+This repository is a simple slide development pipeline using Markdown. You can code the slide with markdown and the pipeline will automatically compile the slides to HTML (with Marp), and displayed in presentation mode. It also includes a live server to preview the slides in the browser to see the changes in real time. This project is generated with [Claude Code](https://www.anthropic.com/news/claude-code).
 
 ## 🚀 Quick Start
 
