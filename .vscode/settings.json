@@ -1,0 +1,14 @@
+{
+    "files.watcherExclude": {
+        "**/node_modules/**": true
+    },
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "slides\\.md$",
+                "cmd": "echo 'Run On Save triggered!' && marp slides.md && echo 'Marp completed!'",
+                "silent": false
+            }
+        ]
+    }
+}
